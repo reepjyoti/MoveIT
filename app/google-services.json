@@ -1,0 +1,418 @@
+{
+  "project_info": {
+    "project_number": "322669163654",
+    "firebase_url": "https://mobserv-fa765.firebaseio.com",
+    "project_id": "mobserv-fa765",
+    "storage_bucket": "mobserv-fa765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:31578242911533f5",
+        "android_client_info": {
+          "package_name": "eurecom.fr.mobservproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:640edf5007229324",
+        "android_client_info": {
+          "package_name": "eurecom.fr.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-3a7nvjm82mainbonsv2r3ud8p2kiv2hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.test2",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:abce093f706fda83",
+        "android_client_info": {
+          "package_name": "eurecom.fr.android.moveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-4cccqup6c4bqua4c96qsd0v6mo6jerub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.moveit",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-tcqpoefj2klhgvqolkvnol23e095gasq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.moveit",
+            "certificate_hash": "913659c1c24dc6cbc23695cfacc8c0670bdfcf34"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:4bb3f291b90a1c47",
+        "android_client_info": {
+          "package_name": "eurecom.fr.android.moveittest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-klee9s2lt09eo6sdvn5k6gnpntp2cvt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.moveittest",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:b3edec6211872307",
+        "android_client_info": {
+          "package_name": "eurecom.fr.android.moveit3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-pjaua2323bt8iarcmmmu4nk18ube5mqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.moveit3",
+            "certificate_hash": "3205b25b0b98e6edf163cf7d39b5439c914a47de"
+          }
+        },
+        {
+          "client_id": "322669163654-mv88as50o55qte32kuc0jgoutq5udab3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.moveit3",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:c829952acc256866",
+        "android_client_info": {
+          "package_name": "eurecom.fr.android.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-59nfpn0f0h4b1mj2ttl016b56l5sa84s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.test3",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:01578b728ce298c2",
+        "android_client_info": {
+          "package_name": "eurecom.fr.android.test8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-0md6nub6s0s3u43ihl25g7j1g0b37qsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.test8",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:1f1c01d1f40dd782",
+        "android_client_info": {
+          "package_name": "eurecom.fr.android.test1000"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-v73bf1sldf7c38bf0ntskrkusieff0to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.fr.android.test1000",
+            "certificate_hash": "56485b2c6bc7a76347defcbae4d7107f500d73a6"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322669163654:android:cea27aac07b7da7a",
+        "android_client_info": {
+          "package_name": "eurecom.moveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322669163654-hpfiivp3utqb1hjkr549gm58lujbdh1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.moveit",
+            "certificate_hash": "dd4e28e5fe00179a70afc2fc7edb42229d80d4f3"
+          }
+        },
+        {
+          "client_id": "322669163654-mldinm84emrgdeean034s2pjd22b7735.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eurecom.moveit",
+            "certificate_hash": "e09d56f1f5fb72782d87cbc6327cdb5653370827"
+          }
+        },
+        {
+          "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj5rzwHr9OGypjXIwdLHK3klaut4JUSpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322669163654-udccvdhed02s53ab6p268ssg4k79uqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
