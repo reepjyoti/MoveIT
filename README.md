@@ -88,6 +88,12 @@ For simplicity, we did not segregate the users based on their type, and instead 
 + android.permission.ACCESS_FINE_LOCATION
 + android.permission.ACCESS_COARSE_LOCATION
 
+## THE MOVEIT TEAM:
+- CHALLANDE Alexis
+- DEKA Reepjyoti
+- M’RABET Firas
+- OMHANI Naoufel
+[MOVEIT Codebase- GITHUB](https://www.google.com "MOVEIT Codebase")
 ### Screenshots
 
 ![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081977_1825244087505878_1300270700_o.png "MOVEIT Screenshot")
@@ -115,10 +121,4 @@ For simplicity, we did not segregate the users based on their type, and instead 
 
 
 ![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080206_1825243910839229_756664293_o.png "MOVEIT Screenshot")
-
-## THE MOVEIT TEAM:
-- CHALLANDE Alexis
-- DEKA Reepjyoti
-- M’RABET Firas
-- OMHANI Naoufel
 
