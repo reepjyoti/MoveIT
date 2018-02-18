@@ -93,7 +93,11 @@ For simplicity, we did not segregate the users based on their type, and instead 
 - DEKA Reepjyoti
 - M’RABET Firas
 - OMHANI Naoufel
-[MOVEIT Codebase- GITHUB](https://www.google.com "MOVEIT Codebase")
+
+
+[MOVEIT Codebase- GITHUB](https://github.com/reepjyoti/MoveIT "MOVEIT Codebase")
+
+
 ### Screenshots
 
 ![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081977_1825244087505878_1300270700_o.png "MOVEIT Screenshot")
