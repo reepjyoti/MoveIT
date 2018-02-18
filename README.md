@@ -9,7 +9,7 @@ Android
 
 ## Application description ##
 
-An application for transporting packages through crowd sourcing drivers acting as movers. It is bla-bla car for packages.
+An application for transporting packages through crowd sourcing drivers acting as movers. It is "BlaBla Cars" for packages.
 
 MoveIt is an application for :
 1) students and the larger crowd who lives in a place but need to sometimes or even frequently transfer stuff like for example a bag of winter clothes from home.
