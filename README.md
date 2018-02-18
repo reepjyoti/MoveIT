@@ -22,35 +22,35 @@ Use the empty space in cars to:
 + earn extra money for the trip (for the driver) with no inconvenients (TRANSPORTER)
 
 ### Main Features:
-*	Cheaper delivery.
-*	Sustainable.
-*	Rating system.
-*	User account system for a better experience
-*	Optional insurance
-*	Price estimator
-*	Direct call  system
-*	Fast payment
-*	Secure delivery
++	Cheaper delivery.
++	Sustainable.
++	Rating system.
++	User account system for a better experience
++	Optional insurance
++	Price estimator
++	Direct call  system
++	Fast payment
++	Secure delivery
 
 ### WorkFlow (Not all features are released in the current version):
 
 1. User creates an account by entering username, password and sets account type to be a SENDER or a TRANSPORTER.
 2. Once user logs in to the system, 
-	if he is a sender:
-		* sees his past packages and their status.
-			* By selecting a past package with status "Moving it", user can see the live tracking of the package on the map.
-		* gets an option to add a new request.
-			* Details of transport: location details of where to where, the package is to be moved 
-			* Dimension and weight details of the package
-			* Set an item as fragile or not and other details concerning the package.
-			* Set a price that the user is willing to spend for the package. Moveit would suggest a price with a price estimator based on the package details and the distance of the transport.
-		* On his menu items, along with other items such as change password etc, he also he gets an option to change the type of his account to being a TRANSPORTER
++ if he is a sender:
+	+ sees his past packages and their status.
+		- By selecting a past package with status "Moving it", user can see the live tracking of the package on the map.
+	+ gets an option to add a new request.
+		- Details of transport: location details of where to where, the package is to be moved 
+		- Dimension and weight details of the package
+		- Set an item as fragile or not and other details concerning the package.
+		- Set a price that the user is willing to spend for the package. Moveit would suggest a price with a price estimator based on the package details and the distance of the transport.
+		- On his menu items, along with other items such as change password etc, he also he gets an option to change the type of his account to being a TRANSPORTER
 		
 3.	If the user is a transporter
-		* he/she sees a map around his current location.
-		* They can opt to show packages on the map.
-		* They can check which packages are on their route by tapping the package.
-		* Once the package marker is tapped, it shows the details of the package and gives an option to call the sender of the package.
+		+ he/she sees a map around his current location.
+		+ They can opt to show packages on the map.
+		+ They can check which packages are on their route by tapping the package.
+		+ Once the package marker is tapped, it shows the details of the package and gives an option to call the sender of the package.
 		
 4.  They decide on a price after negotiating between sender's price, our estimated price and what the transporter expected.
 
@@ -59,10 +59,10 @@ Use the empty space in cars to:
 6.	Currently while connecting the sender and transporter over phone call, we will notified them both by mentioning that the last 6 digits of the transporter's phone number is the unique id.
 
 7. Both users can become a transporter or a sender.
-	* Each one sees a list of previous orders and can change the status of the package.
-	* Once the status is set to "A Moveit Deal!", the package is no longer seen on the map for other transporters.
-	* Once the transporter starts his trip, the status is set as "Moving" and a live tracking of the package is made available to the sender.
-	* Both the sender and transporter receives links to rate each other and the service of MoveIt.
+	+ Each one sees a list of previous orders and can change the status of the package.
+	+ Once the status is set to "A Moveit Deal!", the package is no longer seen on the map for other transporters.
+	+ Once the transporter starts his trip, the status is set as "Moving" and a live tracking of the package is made available to the sender.
+	+ Both the sender and transporter receives links to rate each other and the service of MoveIt.
 	
 8. Additionally, a sender can opt for insurance and both have a platform to send messages or call each other's phone.
 
