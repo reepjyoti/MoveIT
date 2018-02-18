@@ -2,8 +2,7 @@ MOVEIT
 ===================
 We like to move it, MOVEIT!
 ----
-
-![picture alt](https://gitlab.eurecom.fr/mobserv/fall-2017/blob/develop/moveit/logo/logo.png)
+![alt text](MoveIT/logo.png "MOVEIT LOGO")
 
 Platform: Android
 
@@ -32,7 +31,7 @@ Main Features:
 *	Fast payment
 *	Secure delivery
 
-##WorkFlow (Not all features are released in the current version):##
+## WorkFlow (Not all features are released in the current version): ##
 
 1. User creates an account by entering username, password and sets account type to be a SENDER or a TRANSPORTER.
 2. Once user logs in to the system, 
