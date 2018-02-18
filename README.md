@@ -4,7 +4,8 @@ We like to move it, MOVEIT!
 ----
 ![alt text](MoveIT/logo.png "MOVEIT LOGO")
 
-Platform: Android
+## Platform: 
+Android
 
 ## Application description ##
 
@@ -15,12 +16,12 @@ MoveIt is an application for :
 2) somebody who drives with some space in the trunk of the car and is willing to lend out that space for transfering packages.
 
 
-MoveIT - Concept:
+### MoveIT - Concept:
 Use the empty space in cars to:
 ➢ have a sustainable and cheap delivery service (SENDER)
 ➢ earn easy money (for the driver) with no inconvenients (TRANSPORTER)
 
-Main Features:
+### Main Features:
 *	Cheaper delivery.
 *	Sustainable.
 *	Rating system.
@@ -31,7 +32,7 @@ Main Features:
 *	Fast payment
 *	Secure delivery
 
-## WorkFlow (Not all features are released in the current version): ##
+### WorkFlow (Not all features are released in the current version):
 
 1. User creates an account by entering username, password and sets account type to be a SENDER or a TRANSPORTER.
 2. Once user logs in to the system, 
@@ -65,7 +66,7 @@ Main Features:
 	
 8. Additionally, a sender can opt for insurance and both have a platform to send messages or call each other's phone.
 
-## Developed application- Features developed##
+### Developed application- Features developed##
 
 1. Due to the time constraints, we had developed certain features of the application and focussed on the interaction design.
 For simplicity, we did not segregate the users based on their type, and instead gave an option for all users to be a sender and transporter at the same time.
