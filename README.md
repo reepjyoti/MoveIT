@@ -2,7 +2,7 @@ MOVEIT
 ===================
 We like to move it, MOVEIT!
 ----
-![alt text](MoveIT/logo.png "MOVEIT LOGO")
+![LOGO](https://raw.githubusercontent.com/reepjyoti/MoveIT/master/logo.png "MOVEIT LOGO")
 
 ## Platform: 
 Android
@@ -18,8 +18,8 @@ MoveIt is an application for :
 
 ### MoveIT - Concept:
 Use the empty space in cars to:
-➢ have a sustainable and cheap delivery service (SENDER)
-➢ earn easy money (for the driver) with no inconvenients (TRANSPORTER)
++ have a sustainable and cheap delivery service (SENDER)
++ earn easy money (for the driver) with no inconvenients (TRANSPORTER)
 
 ### Main Features:
 *	Cheaper delivery.
