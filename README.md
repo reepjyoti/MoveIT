@@ -12,14 +12,14 @@ Android
 An application for transporting packages through crowd sourcing drivers acting as movers. It is "BlaBla Cars" for packages.
 
 MoveIt is an application for :
-1) students and the larger crowd who lives in a place but need to sometimes or even frequently transfer stuff like for example a bag of winter clothes from home.
-2) somebody who drives with some space in the trunk of the car and is willing to lend out that space for transfering packages.
+1) students and the larger crowd who lives in a place but need to sometimes or even frequently transfer stuff, for example, a bag of winter clothes from home.
+2) somebody who drives with some space in the trunk of the car and is willing to lend out the space for transfering packages.
 
 
 ### MoveIT - Concept:
 Use the empty space in cars to:
 + have a sustainable and cheap delivery service (SENDER)
-+ earn easy money (for the driver) with no inconvenients (TRANSPORTER)
++ earn extra money for the trip (for the driver) with no inconvenients (TRANSPORTER)
 
 ### Main Features:
 *	Cheaper delivery.
