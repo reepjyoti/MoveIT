@@ -66,7 +66,7 @@ Use the empty space in cars to:
 	
 8. Additionally, a sender can opt for insurance and both have a platform to send messages or call each other's phone.
 
-### Developed application- Features developed##
+### Developed application - implemented features
 
 1. Due to the time constraints, we had developed certain features of the application and focussed on the interaction design.
 For simplicity, we did not segregate the users based on their type, and instead gave an option for all users to be a sender and transporter at the same time.
@@ -75,3 +75,36 @@ For simplicity, we did not segregate the users based on their type, and instead 
 4. The in the transporter part the user goes on to a map with a feature to show packages.
 5. Once the transporter selects a package, he sees different details of the package and can call the sender by tapping on the info window of the google map marker.
 6. After the call once the sender decides on a transporter, the sender goes to his/her list of package and selects the one that is to be removed from the map.
+
+### Frameworks and Technologies:
+- Firebase
+- Google play services
+- Intent
+- Fragments
+- Android Studio
+
+### Permissions Required
++ android.permission.INTERNET
++ android.permission.ACCESS_FINE_LOCATION
++ android.permission.ACCESS_COARSE_LOCATION
+
+### Screenshots
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081977_1825244087505878_1300270700_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081054_1825244137505873_1773539034_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080464_1825244067505880_1281307295_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081671_1825244127505874_135109609_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28124763_1825244024172551_1778029349_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28034932_1825244000839220_1193505711_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28170761_1825243977505889_1005877148_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28170973_1825243950839225_959258014_o.png "MOVEIT Screenshot")
+
+![Screenshot](https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080206_1825243910839229_756664293_o.png "MOVEIT Screenshot")
+
