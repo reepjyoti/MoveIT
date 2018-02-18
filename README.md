@@ -2,7 +2,7 @@ MOVEIT
 ===================
 We like to move it, MOVEIT!
 ----
-![LOGO](https://raw.githubusercontent.com/reepjyoti/MoveIT/master/logo.png "MOVEIT LOGO")
+<img src="https://raw.githubusercontent.com/reepjyoti/MoveIT/master/logo.png" width="500">
 ----
 ### Platform: 
 Android
@@ -101,29 +101,5 @@ For simplicity, we did not segregate the users based on their type, and instead 
 ### Screenshots
 
 
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081977_1825244087505878_1300270700_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081054_1825244137505873_1773539034_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080464_1825244067505880_1281307295_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081671_1825244127505874_135109609_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28124763_1825244024172551_1778029349_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28034932_1825244000839220_1193505711_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28170761_1825243977505889_1005877148_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28170973_1825243950839225_959258014_o.png" width="200">
-
-
-<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080206_1825243910839229_756664293_o.png" width="200">
+<img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081977_1825244087505878_1300270700_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081054_1825244137505873_1773539034_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080464_1825244067505880_1281307295_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28081671_1825244127505874_135109609_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28124763_1825244024172551_1778029349_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28034932_1825244000839220_1193505711_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28170761_1825243977505889_1005877148_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28170973_1825243950839225_959258014_o.png" width="200"><img src="https://gitlab.eurecom.fr/mobserv/fall-2017/raw/develop/moveit/screenshots/28080206_1825243910839229_756664293_o.png" width="200">
 
