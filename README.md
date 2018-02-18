@@ -3,7 +3,7 @@ MOVEIT
 We like to move it, MOVEIT!
 ----
 <img src="https://raw.githubusercontent.com/reepjyoti/MoveIT/master/logo.png" width="500">
-----
+
 
 ### Platform: 
 Android
