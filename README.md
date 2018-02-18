@@ -47,10 +47,10 @@ Use the empty space in cars to:
 		- On his menu items, along with other items such as change password etc, he also he gets an option to change the type of his account to being a TRANSPORTER
 		
 3.	If the user is a transporter
-		- he/she sees a map around his current location.
-		- They can opt to show packages on the map.
-		- They can check which packages are on their route by tapping the package.
-		- Once the package marker is tapped, it shows the details of the package and gives an option to call the sender of the package.
+- he/she sees a map around his current location.
+- They can opt to show packages on the map.
+- They can check which packages are on their route by tapping the package.
+- Once the package marker is tapped, it shows the details of the package and gives an option to call the sender of the package.
 		
 4.  They decide on a price after negotiating between sender's price, our estimated price and what the transporter expected.
 
