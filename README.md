@@ -3,7 +3,7 @@ MOVEIT
 # We like to move it, MOVEIT!
 ----
 ![LOGO](https://raw.githubusercontent.com/reepjyoti/MoveIT/master/logo.png "MOVEIT LOGO")
-
+----
 ### Platform: 
 Android
 
